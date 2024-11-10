@@ -24,7 +24,7 @@ const Home = () => {
             </p>
             {/* btn and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
-              <a href="/assets/Tshepang_Gaeatlholwe_Résumé_2024.pdf" download>
+              <a href="/assets/Tshepang Gaeatlholwe CV.pdf" download>
                 <Button 
                   variant="outline" 
                   size="lg" 
